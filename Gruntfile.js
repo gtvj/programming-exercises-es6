@@ -16,7 +16,6 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: {
-                    "dist/example.js": "src/example.js",
                     "dist/exercise.js": "src/exercise.js"
                 }
             }
